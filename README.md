@@ -37,6 +37,6 @@
 
 | Action | 
 |-------|
-| Repository | [![trophy](https://github-profile-trophy.vercel.app/?username=JihadZaidan)](https://github.com/JihadZaidan/github-profile-trophy) | 
+[![trophy](https://github-profile-trophy.vercel.app/?username=JihadZaidan)](https://github.com/JihadZaidan/github-profile-trophy) | 
 
 
