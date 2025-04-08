@@ -38,7 +38,5 @@
 | Action | 
 |-------|
 | Repository | [![trophy](https://github-profile-trophy.vercel.app/?username=JihadZaidan)](https://github.com/JihadZaidan/github-profile-trophy) | 
-| Streak | <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=JihadZaidan&show_icons=true&locale=en&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&hide=mdx,shaderlab" alt="stats"/> | 
-
 
 
