@@ -35,8 +35,8 @@
 
 # Achievments 
 
-| Action | 
-|-------|
-[![trophy](https://github-profile-trophy.vercel.app/?username=JihadZaidan)](https://github.com/JihadZaidan/github-profile-trophy) | 
-
+| Action | File |
+|-------|------|
+| Repo | [![trophy](https://github-profile-trophy.vercel.app/?username=JihadZaidan)](https://github.com/JihadZaidan/github-profile-trophy) | 
+| Strike | <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=oktayshakirov&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak"/> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=oktayshakirov&show_icons=true&locale=en&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&hide=mdx,shaderlab" alt="stats"/> | 
 
