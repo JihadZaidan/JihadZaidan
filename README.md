@@ -19,8 +19,8 @@
 
 | Propperty               |   Component                                                                                                        |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|
-| **Developer**           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,vite,laravel,php&theme=dark)](https://skillicons.dev)   | 
-| **Editor Media**        | [![My Skills](https://skillicons.dev/icons?i=vscode,webflow,wordpress&theme=dark)](https://skillicons.dev)                |
+| **Developer**           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,vite,laravel,php,flutter&theme=dark)](https://skillicons.dev)   | 
+| **Editor Media**        | [![My Skills](https://skillicons.dev/icons?i=vscode,webflow,wordpress,androidstudio&theme=dark)](https://skillicons.dev)                |
 | **Designer Layout**     | [![My Skills](https://skillicons.dev/icons?i=figma,svg&theme=dark)](https://skillicons.dev)                        |
 | **Operation System**    | [![My Skills](https://skillicons.dev/icons?i=windows,apple&theme=dark)](https://skillicons.dev)                    |
 | **Deploying**           | [![My Skills](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev)                           |
