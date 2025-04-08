@@ -8,7 +8,7 @@
 | ***Domicillion*** | *Malang City* |
 | ***Province*** | *East Java* | 
 | ***Status*** | *singgle younger < 21*  | 
-| ***Jobdesk*** | *Student , Frontend Developer, Figma Designer* | 
+| ***Jobdesk*** | *Student , Fullstack Developer , Figma Designer* | 
 | ***Gender*** | *Male* | 
 | ***School*** | *SMK Negeri 4 Malang* |
 | ***Slog*** | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
