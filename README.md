@@ -39,4 +39,4 @@
 |-------|------|
 | Repo | [![trophy](https://github-profile-trophy.vercel.app/?username=JihadZaidan&theme=radical)](https://github.com/JihadZaidan/github-profile-trophy) | 
 | Strike | <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=JihadZaidan&theme=react&count_private=false&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak"/> <br> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=JihadZaidan&count=8&show_icons=true&locale=en&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&hide=mdx,shaderlab" alt="stats"/> <br> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JihadZaidan&show_icons=true&theme=react&hide_border=true" width="450" alt="GitHub Stats" /> | 
-| Daily | |
+| Daily | <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JihadZaidan&bg_color=0D1117&color=61DAFB&line=00B2FF&point=61DAFB&area=true&area_color=61DAFB&hide_border=true" alt="GitHub Activity"/> |
