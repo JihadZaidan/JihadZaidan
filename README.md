@@ -25,7 +25,6 @@
 | **Designer Layout**     | [![My Skills](https://skillicons.dev/icons?i=figma,svg,ai&theme=dark)](https://skillicons.dev)                        |
 | **Operation System**    | [![My Skills](https://skillicons.dev/icons?i=windows,apple&theme=dark)](https://skillicons.dev)                    |
 | **Deploying**           | [![My Skills](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev)                           |
-| **Helper**              | [![My Skills](https://skillicons.dev/icons?i=stackoverflow,tensorflow,postman&theme=dark)](https://skillicons.dev) |
 | **Run Administrator**   | [![My Skills](https://skillicons.dev/icons?i=git,powershell,npm&theme=dark)](https://skillicons.dev)        |
 
 
