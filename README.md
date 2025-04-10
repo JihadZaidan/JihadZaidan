@@ -6,7 +6,7 @@
 | ***Age*** | *17 Years Old* |
 | ***Country*** | *Indonesia* | 
 | ***Domicillion*** | *Malang City* |
-| ***Province*** | *East Java* | 
+| ***Province*** | *East Java* , *DKI Jakarta* | 
 | ***Status*** | *singgle younger < 21*  | 
 | ***Jobdesk*** | *Student , Fullstack Developer , Figma Designer* | 
 | ***Gender*** | *Male* | 
