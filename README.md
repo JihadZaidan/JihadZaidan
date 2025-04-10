@@ -5,7 +5,7 @@
 | ***Name*** | *Muhammad Jihad Zaidan Al-Syareefsyah* |
 | ***Age*** | *17 Years Old* |
 | ***Country*** | *Indonesia* | 
-| ***Domicillion*** | *Malang City* |
+| ***Domicillion*** | *Malang City*, *Center Jakarta* |
 | ***Province*** | *East Java* , *Jakarta* | 
 | ***Status*** | *singgle younger < 21*  | 
 | ***Jobdesk*** | *Student , Fullstack Developer , Figma Designer* | 
