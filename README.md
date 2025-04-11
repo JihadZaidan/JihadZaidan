@@ -21,13 +21,8 @@
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|
 | **Language**           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,php,kotlin,dart,swift,cpp,c&theme=dark)](https://skillicons.dev)   | 
 | **Library**            | [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,laravel,flutter&theme=dark)](https://skillicons.dev)
-| **Editor Media**        | [![My Skills](https://skillicons.dev/icons?i=vscode,webflow,wordpress,androidstudio&theme=dark)](https://skillicons.dev)                |
-| **Designer Layout**     | [![My Skills](https://skillicons.dev/icons?i=figma,svg,ai&theme=dark)](https://skillicons.dev)                        |
-| **Operation System**    | [![My Skills](https://skillicons.dev/icons?i=windows,apple&theme=dark)](https://skillicons.dev)                    |
-| **Deploying**           | [![My Skills](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev)                           |
-| **Run Administrator**   | [![My Skills](https://skillicons.dev/icons?i=git,powershell,npm&theme=dark)](https://skillicons.dev)        |
-| **Other**               | [![My Skills](https://skillicons.dev/icons?i=arduino&theme=dark)](https://skillicons.dev)
-
+| **Editor Media**        | [![My Skills](https://skillicons.dev/icons?i=vscode,webflow,wordpress,androidstudio,arduino&theme=dark)](https://skillicons.dev) |
+| **Interfaces** | [![My Skills](https://skillicons.dev/icons?i=ai,figma,dribbble&theme=dark)](https://skillicons.dev) |
 
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYzNDU4NmI2OWQ5ZDNkNzY0ZGY5ZGJiYTZkNzM2MDQ5ZmQyYjE0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cUAGuLiEcTBwRfkAQq/giphy.gif" width="30"> Viewers 
 | Lolita Ver | Real Viewers | 
