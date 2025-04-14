@@ -12,7 +12,7 @@
 | ***Gender*** | *Male* | 
 | ***School*** | *SMK Negeri 4 Malang* |
 | ***Slog*** | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
-| ***Social Media*** | [![Social](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/) [![Social](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/JihadZaidan/) [![Social](https://skillicons.dev/icons?i=vercel&theme=dark)](https://jihadzaidan-portofolio.vercel.app) | 
+| ***Social Media*** | [![Social](https://skillicons.dev/icons?i=instagram,vercel,twitter,github,gitlab&theme=dark)](https://www.skillicons.dev/)   | 
 
 # <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack 
 
