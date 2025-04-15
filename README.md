@@ -46,14 +46,3 @@
 | Top By Repository | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JihadZaidan&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/> | 
 | Productivity | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JihadZaidan&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/> | 
 | Summary | <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JihadZaidan&theme=transparent" alt='Profile'/> |
-
-# Repository 
-
-<h2 align="center">📕 Featured repositories:</h2>
-<div align="center">
-<a href="https://github.com/JihadZaidan/Kinabir"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JihadZaidan&repo=auction-platform&theme=transparent" alt="C"></a>
-<a href="https://github.com/JihadZaidan/kahuripan_info_x"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=house-price-prediction&theme=transparent" alt="C++"></a>
-<a href="https://github.com/JihadZaidan/blackcore.id"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JihadZaidan&repo=youtube-clone&theme=transparent" alt="Java"></a>
-<a href="https://github.com/JihadZaidan/Fixed-Transhistory"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JihadZaidan&repo=chatgpt-clone&theme=transparent" alt="Python"></a>
-<a href="https://github.com/JihadZaidan/jihadzaidan-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JihadZaidan&repo=portfolio&theme=transparent" alt="PHP"></a>
-</div>
