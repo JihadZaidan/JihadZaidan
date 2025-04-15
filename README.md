@@ -19,7 +19,7 @@
 
 | Propperty               |   Component                                                                                                        |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|
-| **Language**           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,php,kotlin,dart,swift,cpp,c,cmake,gradle&theme=dark)](https://skillicons.dev)   | 
+| **Language**           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,php,kotlin,gradle,java,dart,swift,cpp,c,cmake&theme=dark)](https://skillicons.dev)   | 
 | **Library**            | [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,laravel,flutter,vite,nextjs&theme=dark)](https://skillicons.dev)
 | **Editor Media**        | [![My Skills](https://skillicons.dev/icons?i=vscode,webflow,wordpress,androidstudio,arduino,apple,windows,git,nodejs,npm&theme=dark)](https://skillicons.dev) |
 | **Interfaces** | [![My Skills](https://skillicons.dev/icons?i=ai,figma&theme=dark)](https://skillicons.dev) |
@@ -35,6 +35,8 @@
 |-------|------|
 | Repo | [![trophy](https://github-profile-trophy.vercel.app/?username=JihadZaidan&theme=radical)](https://github.com/JihadZaidan/github-profile-trophy) | 
 | Daily | <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JihadZaidan&bg_color=0D1117&color=000fff&line=000fff&point=61DAFB&area=true&area_color=61DAFB&hide_border=true" alt="GitHub Activity"/> |
+| Stats | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JihadZaidan&show_icons=true&theme=react&hide_border=true" width="450" alt="GitHub Stats" /> |
+| On Fire | <img src="https://github-readme-streak-stats.herokuapp.com/?user=JihadZaidan&theme=react&hide_border=true" alt="GitHub Streak"/> |
 
 # Activity 
 
