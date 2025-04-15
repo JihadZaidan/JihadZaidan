@@ -1,16 +1,3 @@
-<script>
-    function updateClock() {
-      const now = new Date();
-      const hours = String(now.getHours()).padStart(2, '0');
-      const minutes = String(now.getMinutes()).padStart(2, '0');
-      const seconds = String(now.getSeconds()).padStart(2, '0');
-      document.getElementById('clock').textContent = `🕒 ${hours}:${minutes}:${seconds}`;
-    }
-
-    setInterval(updateClock, 1000);
-    updateClock();
-  </script>
-
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxdWh6ZXg5Y2E4M2JiNmRiNGQ2NmU4MmRkNzg4YzBkYjM5NGJhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"> Introducing 
 
 |       |  Profile  | 
