@@ -34,5 +34,12 @@
 | Action | File |
 |-------|------|
 | Repo | [![trophy](https://github-profile-trophy.vercel.app/?username=JihadZaidan&theme=radical)](https://github.com/JihadZaidan/github-profile-trophy) | 
-| Strike | <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=JihadZaidan&theme=react&count_private=false&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak"/> <br> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=JihadZaidan&count=8&show_icons=true&locale=en&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&hide=mdx,shaderlab" alt="stats"/> <br> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JihadZaidan&show_icons=true&theme=react&hide_border=true" width="450" alt="GitHub Stats" /> | 
+| Strike | <div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent" alt='Profile'/>
+</div> | 
 | Daily | <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JihadZaidan&bg_color=0D1117&color=000fff&line=000fff&point=61DAFB&area=true&area_color=61DAFB&hide_border=true" alt="GitHub Activity"/> |
