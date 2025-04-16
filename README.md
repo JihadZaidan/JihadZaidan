@@ -36,7 +36,6 @@
 | Repo | [![trophy](https://github-profile-trophy.vercel.app/?username=JihadZaidan&theme=radical)](https://github.com/JihadZaidan/github-profile-trophy) | 
 | Daily | <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JihadZaidan&bg_color=0D1117&color=000fff&line=000fff&point=61DAFB&area=true&area_color=61DAFB&hide_border=true" alt="GitHub Activity"/> |
 | Stats | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JihadZaidan&show_icons=true&theme=react&hide_border=true" width="450" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JihadZaidan&theme=react&hide_border=true" alt="GitHub Streak"/> |
-| Conected | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qxbtcxae7tikvr5erbu3kq4oqy&cover_image=true&theme=default&show_offline=false&background_color=ff0000&interchange=false&bar_color=ffffff)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qxbtcxae7tikvr5erbu3kq4oqy&redirect=true) |
 | Achievments | <img src="./arsip.svg" /> |
 
 # Activity 
