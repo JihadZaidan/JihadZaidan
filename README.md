@@ -48,4 +48,4 @@
 | Top By Repository | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JihadZaidan&theme=transparent&exclude=none" height="180em" alt="Most Repo Languages"/> | 
 | Productivity | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JihadZaidan&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/> | 
 | Summary | <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JihadZaidan&theme=transparent" alt='Profile'/> |
-| Metrics | <img align="center" src="https://github.com/JihadZaidan/JihadZaidan/rainbow-graph.svg"/>
+| Metrics | <img align="center" src="./rainbow-graph.svg"/>
