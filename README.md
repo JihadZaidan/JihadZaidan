@@ -37,11 +37,6 @@
 | Daily | <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JihadZaidan&bg_color=0D1117&color=000fff&line=000fff&point=61DAFB&area=true&area_color=61DAFB&hide_border=true" alt="GitHub Activity"/> |
 | Stats | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JihadZaidan&show_icons=true&theme=react&hide_border=true" width="450" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JihadZaidan&theme=react&hide_border=true" alt="GitHub Streak"/> |
 | Achievments | <img src="./arsip.svg" /> |
-
-# Activity 
-
-| Activity | Note | 
-|-----|--------|
 | Strike | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JihadZaidan&theme=transparent" height="180em" alt="Stats"/> |
 | Language | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JihadZaidan&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=18&hide=none" alt="Top Languages"/> | 
 | Top By Commit | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JihadZaidan&theme=transparent&exclude=none" height="180em" alt="Most Commits Languages"/> |
