@@ -24,7 +24,3 @@
 | **Editor Media**        | [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,arduino,apple,windows,webstorm&theme=dark)](https://skillicons.dev) |
 | **Interfaces** | [![My Skills](https://skillicons.dev/icons?i=ai,figma,webflow,wordpress&theme=dark)](https://skillicons.dev) |
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYzNDU4NmI2OWQ5ZDNkNzY0ZGY5ZGJiYTZkNzM2MDQ5ZmQyYjE0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cUAGuLiEcTBwRfkAQq/giphy.gif" width="30"> Viewers 
-| Lolita Ver | Animelist | 
-|--------|----------| 
-| <img alt="Moe Counter!" src="https://count.getloli.com/@JihadZaidan.github?name=JihadZaidan.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>  |  <img src="./waifu.svg" />
