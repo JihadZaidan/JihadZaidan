@@ -2,7 +2,6 @@
 
 |  <img src="https://profile-counter.glitch.me/JihadZaidan/count.svg" />  |  Profile  | 
 |-------|-------------| 
-| ***Name*** | *Muhammad Jihad Zaidan Al-Syareefsyah* |
 | ***Age*** | *17 Years Old* |
 | ***Country*** | *Indonesia* | 
 | ***Domicillion*** | *Malang City*, *Center Jakarta* |
