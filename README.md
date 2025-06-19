@@ -2,7 +2,7 @@
 
 |  <img src="https://profile-counter.glitch.me/JihadZaidan/count.svg" />  |  Profile  | 
 |-------|-------------| 
-| ***Age*** | *17 Years Old* |
+| ***Age*** | *17 Years Old & 18 Years Old* |
 | ***Country*** | *Indonesia* | 
 | ***Domicillion*** | *Malang City*, *Center Jakarta* |
 | ***Province*** | *East Java* , *Jakarta* | 
