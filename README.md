@@ -19,7 +19,7 @@
 | Propperty               |   Component                                                                                                        |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|
 | **Language**           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,php,kotlin,gradle,java,dart,swift,cpp,c,cmake&theme=dark)](https://skillicons.dev)   | 
-| **Library**            | [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,laravel,flutter,vite,nextjs&theme=dark)](https://skillicons.dev)
+| **Library**            | [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,laravel,flutter,vite,nextjs,sqlite&theme=dark)](https://skillicons.dev)
 | **Editor Media**        | [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,arduino,apple,windows,webstorm&theme=dark)](https://skillicons.dev) |
 | **Interfaces** | [![My Skills](https://skillicons.dev/icons?i=ai,figma,webflow,wordpress&theme=dark)](https://skillicons.dev) |
 
