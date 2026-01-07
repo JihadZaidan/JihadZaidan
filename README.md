@@ -4,8 +4,8 @@
 |-------|-------------| 
 | ***Age*** | *17 Years Old & 18 Years Old* |
 | ***Country*** | *Indonesia* | 
-| ***Domicillion*** | *Malang City*, *Center Jakarta* |
-| ***Province*** | *East Java* , *Jakarta* | 
+| ***Domicillion*** | *Malang City*, *Center Jakarta*, *Tangerang*|
+| ***Province*** | *East Java* , *Jakarta*, Banten| 
 | ***Status*** | *singgle younger < 21*  | 
 | ***Jobdesk*** | *Student , Junior Developer , Junior UI&UX Designer* | 
 | ***Gender*** | *Male* | 
