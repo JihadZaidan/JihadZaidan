@@ -10,7 +10,7 @@
 | ***Jobdesk*** | *Student , Junior Developer , Junior UI&UX Designer* | 
 | ***Gender*** | *Male* | 
 | ***School*** | *SMK Negeri 4 Malang* |
-| ***Slog*** | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
+| ***Quotes Today*** | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
 | ***Social Media*** | [![Social](https://skillicons.dev/icons?i=instagram,vercel,twitter,github,gitlab,gmail,discord,linkedin,devto&theme=dark)](https://www.skillicons.dev/)   | 
 
 # <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack 
