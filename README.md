@@ -9,7 +9,7 @@
 | ***Status*** | *singgle younger < 21*  | 
 | ***Jobdesk*** | *Student , Junior Developer , Junior UI&UX Designer* | 
 | ***Gender*** | *Male* | 
-| ***School*** | *SMK Negeri 4 Malang* |
+| ***School*** | *SMK Negeri 4 Malang*, *Muhammadiyah University Malang*, *Ma Chung University Malang* |
 | ***Quotes Today*** | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
 | ***Social Media*** | [![Social](https://skillicons.dev/icons?i=instagram,vercel,twitter,github,gitlab,gmail,discord,linkedin,devto&theme=dark)](https://www.skillicons.dev/)   | 
 
