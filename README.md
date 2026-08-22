@@ -6,7 +6,7 @@
 | ***Country*** | *Indonesia* | 
 | ***Domicillion*** | *Malang City* |
 | ***Province*** | *East Java* | 
-| ***Status*** | *singgle younger < 21*  | 
+| ***Status*** | *Singgle*  | 
 | ***Jobdesk*** | *Student , Junior Developer , Junior UI&UX Designer* | 
 | ***Gender*** | *Male* | 
 | ***School*** | *SMK Negeri 4 Malang*, *Muhammadiyah University Malang*, *Ma Chung University Malang* |
