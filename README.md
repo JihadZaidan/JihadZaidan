@@ -20,5 +20,5 @@
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|
 | **Language**           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,kotlin,java,dart,cpp&theme=dark)](https://skillicons.dev)| 
 | **Library**            | [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,laravel,flutter,vite,nextjs,nodejs,threejs&theme=dark)](https://skillicons.dev)|
-| **Technology**         | [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,vercel,netlify,git,gitlab,github,npm,webflow,apple,microsoft,figma&theme=dark)](https://skillicons.dev)|
+| **Technology**         | [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,vercel,netlify,git,gitlab,github,npm,webflow,apple,windows,figma&theme=dark)](https://skillicons.dev)|
 
