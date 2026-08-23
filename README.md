@@ -1,17 +1,52 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxdWh6ZXg5Y2E4M2JiNmRiNGQ2NmU4MmRkNzg4YzBkYjM5NGJhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"> Introducing 
+# JihadZaidan
 
-|  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxdWh6ZXg5Y2E4M2JiNmRiNGQ2NmU4MmRkNzg4YzBkYjM5NGJhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"/> |  Profile  | 
-|-------|-------------| 
-| ***Age*** | *19 Years Old & 18 Years Old* |
-| ***Country*** | *Indonesia* | 
-| ***Domicillion*** | *Malang City* |
-| ***Province*** | *East Java* | 
-| ***Status*** | *Singgle*  | 
-| ***Jobdesk*** | *Student , Junior Developer , Junior UI&UX Designer* | 
-| ***Gender*** | *Male* | 
-| ***School*** | *SMK Negeri 4 Malang*, *Muhammadiyah University Malang*, *Ma Chung University Malang* |
-| ***Quotes Today*** | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
-| ***Social Media*** | [![Social](https://skillicons.dev/icons?i=instagram,twitter,gmail,discord,linkedin,devto&theme=dark)](https://www.skillicons.dev/)   | 
+> Products, launches, and builder momentum.
+
+## Heatmap
+
+## GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=JihadZaidan&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=JihadZaidan&theme=neon" alt="JihadZaidan stats section" />
+  </picture>
+</p>
+## Projects
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=JihadZaidan&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=JihadZaidan&theme=neon" alt="JihadZaidan projects section" />
+  </picture>
+</p>
+## Connect
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=JihadZaidan&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=JihadZaidan&theme=neon" alt="JihadZaidan social section" />
+  </picture>
+</p>
+## Header
+
+Hi, I'm **JihadZaidan**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=JihadZaidan&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=JihadZaidan&theme=neon" alt="JihadZaidan hero section" />
+  </picture>
+</p>
+## About Me
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=JihadZaidan&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=JihadZaidan&theme=neon" alt="JihadZaidan about section" />
+  </picture>
+</p>
+
 
 # <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack 
 
