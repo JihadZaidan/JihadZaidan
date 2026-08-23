@@ -1,36 +1,3 @@
-# JihadZaidan
-
-> Products, launches, and builder momentum.
-
-## Heatmap
-
-## GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=JihadZaidan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=JihadZaidan&theme=neon" alt="JihadZaidan stats section" />
-  </picture>
-</p>
-## Projects
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=JihadZaidan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=JihadZaidan&theme=neon" alt="JihadZaidan projects section" />
-  </picture>
-</p>
-
-## Connect
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=JihadZaidan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=JihadZaidan&theme=neon" alt="JihadZaidan social section" />
-  </picture>
-</p>
-
-## Header
 
 Hi, I'm **JihadZaidan**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
@@ -41,7 +8,26 @@ Hi, I'm **JihadZaidan**. This README shares what I'm building, the tools I use, 
   </picture>
 </p>
 
-## About Me
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=JihadZaidan&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=JihadZaidan&theme=neon" alt="JihadZaidan stats section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=JihadZaidan&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=JihadZaidan&theme=neon" alt="JihadZaidan projects section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=JihadZaidan&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=JihadZaidan&theme=neon" alt="JihadZaidan social section" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
