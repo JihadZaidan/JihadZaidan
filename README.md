@@ -20,6 +20,7 @@
     <img src="https://www.gitskins.com/api/section/projects?username=JihadZaidan&theme=neon" alt="JihadZaidan projects section" />
   </picture>
 </p>
+
 ## Connect
 
 <p align="center">
@@ -28,6 +29,7 @@
     <img src="https://www.gitskins.com/api/section/social?username=JihadZaidan&theme=neon" alt="JihadZaidan social section" />
   </picture>
 </p>
+
 ## Header
 
 Hi, I'm **JihadZaidan**. This README shares what I'm building, the tools I use, and the work I'm proud of.
@@ -38,6 +40,7 @@ Hi, I'm **JihadZaidan**. This README shares what I'm building, the tools I use, 
     <img src="https://www.gitskins.com/api/section/hero?username=JihadZaidan&theme=neon" alt="JihadZaidan hero section" />
   </picture>
 </p>
+
 ## About Me
 
 <p align="center">
