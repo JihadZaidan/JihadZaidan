@@ -33,6 +33,9 @@
   </picture>
 </p>
 
+# 📊***Activity Graph***
+
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JihadZaidan&bg_color=000080&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="GitHub Activity"/>
 
 # <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack 
 
