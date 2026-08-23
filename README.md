@@ -7,6 +7,13 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=JihadZaidan&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=JihadZaidan&theme=neon" alt="JihadZaidan about section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=JihadZaidan&theme=neon&mode=light" />
     <img src="https://www.gitskins.com/api/section/stats?username=JihadZaidan&theme=neon" alt="JihadZaidan stats section" />
   </picture>
@@ -23,13 +30,6 @@
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=JihadZaidan&theme=neon&mode=light" />
     <img src="https://www.gitskins.com/api/section/social?username=JihadZaidan&theme=neon" alt="JihadZaidan social section" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=JihadZaidan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=JihadZaidan&theme=neon" alt="JihadZaidan about section" />
   </picture>
 </p>
 
