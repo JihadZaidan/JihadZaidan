@@ -59,5 +59,5 @@
 | **Language**           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,kotlin,java,dart,cpp,markdown,cmake,python&theme=dark)](https://skillicons.dev)| 
 | **Support**            | [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,laravel,flutter,vite,nextjs,nodejs,threejs,arduino,pycharm&theme=dark)](https://skillicons.dev)|
 | **Technology**         | [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,vercel,netlify,git,gitlab,github,npm,webflow,apple,windows,figma,powershell&theme=dark)](https://skillicons.dev)|
-| **Social Media         | [![My Skills](https://skillicons.dev/icons?i=instagram,twitter,spotify,gmail,discord&theme=dark)](https://skillicons.dev)
+| **Social Media**       | [![My Skills](https://skillicons.dev/icons?i=instagram,twitter,spotify,gmail,discord&theme=dark)](https://skillicons.dev)
 
