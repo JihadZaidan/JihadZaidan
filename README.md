@@ -38,7 +38,8 @@
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JihadZaidan&bg_color=000080&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="GitHub Activity"/>
 
  <div align="center">
-    ![](https://streak-stats.demolab.com?user=JihadZaidan&theme=dark&hide_border=true)
+   
+  ![](https://streak-stats.demolab.com?user=JihadZaidan&theme=dark&hide_border=true)
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JihadZaidan&theme=github_dark)
 
@@ -47,6 +48,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JihadZaidan&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JihadZaidan&theme=github_dark&utcOffset=4)
+
  </div>
 
 
