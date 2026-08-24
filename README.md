@@ -37,6 +37,17 @@
 
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JihadZaidan&bg_color=000080&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="GitHub Activity"/>
 
+ ![](https://streak-stats.demolab.com?user=JihadZaidan&theme=dark&hide_border=true)
+
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JihadZaidan&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JihadZaidan&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JihadZaidan&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JihadZaidan&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JihadZaidan&theme=github_dark&utcOffset=4)
+
+
 # <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack 
 
 | Propperty               |   Component                                                                                                        |
