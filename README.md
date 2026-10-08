@@ -33,8 +33,7 @@
   </picture>
 </p>
 
-# 📊***Activity Graph***
-
+ 
  <div align="center">
 
    <div align="center">
@@ -55,9 +54,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JihadZaidan&theme=github_dark&utcOffset=4)
 
  </div>
-
-
-# <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack 
 
 <div align="center">
 
