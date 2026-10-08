@@ -37,7 +37,14 @@
 
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JihadZaidan&bg_color=000080&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="GitHub Activity"/>
 
- <div align="left">
+ <div align="center">
+
+   <div align="center">
+    <img
+      src="https://github-trophies.vercel.app/?username=ruslanleker1663&theme=discord&no-frame=true&no-bg=true&margin-w=4"
+    />
+</div>
+
    
   ![](https://streak-stats.demolab.com?user=JihadZaidan&theme=dark&hide_border=true)
 
