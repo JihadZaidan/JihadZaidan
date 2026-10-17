@@ -47,11 +47,25 @@
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JihadZaidan&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JihadZaidan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JihadZaidan&theme=github_dark)
+<table>
+<tr>
+<td width="33%">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JihadZaidan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JihadZaidan&theme=github_dark&utcOffset=4)
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JihadZaidan&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JihadZaidan&theme=transparent" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JihadZaidan&theme=transparent&utc_offset=5.5" />
+
+</td>
+</tr>
+</table>
 
  </div>
 
